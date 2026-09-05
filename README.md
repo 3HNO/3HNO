@@ -16,4 +16,4 @@ show and in saying so plainly.
 
 **Tools**: R (tidyverse, ggplot2, Shiny, sf), Python (pandas, scikit-learn, Keras), SQL, Git
 
-📫 hnoash@gmail.com
+📫 alshammari.tahani@gmail.com
